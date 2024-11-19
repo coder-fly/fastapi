@@ -8,3 +8,4 @@ requests
 aiofiles
 aio_pika
 1
+1
